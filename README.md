@@ -5,7 +5,7 @@ Olá, me chamo Letícia, moro atualmente na cidade de São Paulo.
 Sou formada em química e pós graduada em Técnologia Nuclear - aplicações pelo IPEN/USP. 
 
 Estou iniciando uma transição de carreira para me tornar analista de dados, área da qual vem me despertando muito interesse e admiração.
-Atualmente iniciei meus estudos através da Escola Britânica de Artes Criativas e Técnologia EBAC no curso: Profissão: Analista de dados, onde aprenderei a linguagem de programação Python (Váriaveis, tipos e estruturas de dados, fluxo condicional, programação funcional, tratamento de erros, scripting), coleta de dados, data wrangling, visualização de dados, fundamentos de matemática e estatística, machine learning, criação de Dashboards através da ferramenta Google Data Studio, linguagem de programação SQL (Base de dados, tabelas, computação em nuvem e Big Data.
+Atualmente iniciei meus estudos através da Escola Britânica de Artes Criativas e Técnologia EBAC no curso: Profissão: Analista de dados, onde aprenderei a linguagem de programação Python (Váriaveis, tipos e estruturas de dados, fluxo condicional, programação funcional, tratamento de erros, scripting, ETL), fundamentos de matemática e estatística, machine learning, criação de Dashboards através da ferramenta Google Data Studio, SQL, computação em nuvem e Big Data.
 
 
 ### O que estou aprendendo
