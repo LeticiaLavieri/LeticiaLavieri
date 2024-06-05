@@ -17,6 +17,7 @@ Nestes programas aprendi sobre estatísticas, visualização de dados, e ferrame
 ### :pushpin: [Meu Portifólio](https://github.com/LeticiaLavieri/Portifolio) 
 
 <br>
+
 ---
 
 ### O que estou aprendendo
